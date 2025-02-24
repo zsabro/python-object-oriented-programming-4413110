@@ -24,8 +24,13 @@ b2 = Book("The Catcher in the Rye", "JD Salinger", 29.95)
 
 # TODO: call the object as if it were a function
 print(b1)
+<<<<<<< HEAD
 b1("Broken Wings", "Khalil Gibran", 10.0)
 print(b1)
 print(b2)
 b2("Voice of the Heart", "Khalil Gibran", 12.0)
 print(b2)
+=======
+b1("Broken Wings", "Khalil Gibran", 1100)
+print(b1)
+>>>>>>> 223ffd04574c1db753eefeba44ed4a947b2de7d4
